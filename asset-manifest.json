@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nick-dc-pj/static/css/main.16dd467a.css",
+    "main.js": "/nick-dc-pj/static/js/main.a7a901db.js",
+    "static/media/Ubuntu-Regular.woff": "/nick-dc-pj/static/media/Ubuntu-Regular.ab4ada0d71cde70b87f3.woff",
+    "static/media/UbuntuCondensed-Regular.woff": "/nick-dc-pj/static/media/UbuntuCondensed-Regular.70b9815a5c85152720b6.woff",
+    "index.html": "/nick-dc-pj/index.html",
+    "main.16dd467a.css.map": "/nick-dc-pj/static/css/main.16dd467a.css.map",
+    "main.a7a901db.js.map": "/nick-dc-pj/static/js/main.a7a901db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16dd467a.css",
+    "static/js/main.a7a901db.js"
+  ]
+}
