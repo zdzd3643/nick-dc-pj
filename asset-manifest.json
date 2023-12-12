@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ec269b2.css",
-    "main.js": "/static/js/main.04a858f5.js",
-    "static/media/Ubuntu-Regular.woff": "/static/media/Ubuntu-Regular.ab4ada0d71cde70b87f3.woff",
-    "static/media/UbuntuCondensed-Regular.woff": "/static/media/UbuntuCondensed-Regular.70b9815a5c85152720b6.woff",
-    "index.html": "/index.html",
-    "main.7ec269b2.css.map": "/static/css/main.7ec269b2.css.map",
-    "main.04a858f5.js.map": "/static/js/main.04a858f5.js.map"
+    "main.css": "/nick-dc-pj/static/css/main.8d83630b.css",
+    "main.js": "/nick-dc-pj/static/js/main.fbd4b7b4.js",
+    "static/media/Ubuntu-Regular.woff": "/nick-dc-pj/static/media/Ubuntu-Regular.ab4ada0d71cde70b87f3.woff",
+    "static/media/UbuntuCondensed-Regular.woff": "/nick-dc-pj/static/media/UbuntuCondensed-Regular.70b9815a5c85152720b6.woff",
+    "index.html": "/nick-dc-pj/index.html",
+    "main.8d83630b.css.map": "/nick-dc-pj/static/css/main.8d83630b.css.map",
+    "main.fbd4b7b4.js.map": "/nick-dc-pj/static/js/main.fbd4b7b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ec269b2.css",
-    "static/js/main.04a858f5.js"
+    "static/css/main.8d83630b.css",
+    "static/js/main.fbd4b7b4.js"
   ]
 }
